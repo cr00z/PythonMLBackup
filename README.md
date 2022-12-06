@@ -23,3 +23,8 @@ My roadmap to study Data Science
 ## grokking_dl
 
 Эксперименты по тексту книги Траск Эндрю "Грокаем глубокое обучение"
+
+
+## Cources
+
+### stepik-cources
