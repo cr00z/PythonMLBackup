@@ -28,6 +28,14 @@ My roadmap to study Data Science
 
 Эксперименты по тексту книги Траск Эндрю "Грокаем глубокое обучение"
 
+## sibsutis
+
+Учеба в СибГути
+
+- knn / knn.py
+- heart_attacks / heart_attacks.ipynb
+- wines / wines.ipynb
+
 
 ## Cources
 
